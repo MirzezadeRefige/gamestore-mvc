@@ -4734,23 +4734,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\II Novbe\\.nuget\\packages\\": {},
+    "C:\\Users\\ACER\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\II Novbe\\Desktop\\GameStore-MVC\\GameStore-DAL\\GameStore-DAL.csproj",
+      "projectUniqueName": "C:\\Users\\ACER\\OneDrive\\Masaüstü\\RefigeM\\gamestore-mvc\\GameStore-MVC\\GameStore-DAL\\GameStore-DAL.csproj",
       "projectName": "GameStore-DAL",
-      "projectPath": "C:\\Users\\II Novbe\\Desktop\\GameStore-MVC\\GameStore-DAL\\GameStore-DAL.csproj",
-      "packagesPath": "C:\\Users\\II Novbe\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\II Novbe\\Desktop\\GameStore-MVC\\GameStore-DAL\\obj\\",
+      "projectPath": "C:\\Users\\ACER\\OneDrive\\Masaüstü\\RefigeM\\gamestore-mvc\\GameStore-MVC\\GameStore-DAL\\GameStore-DAL.csproj",
+      "packagesPath": "C:\\Users\\ACER\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\ACER\\OneDrive\\Masaüstü\\RefigeM\\gamestore-mvc\\GameStore-MVC\\GameStore-DAL\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\II Novbe\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\ACER\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -4776,8 +4776,9 @@
       "restoreAuditProperties": {
         "enableAudit": "true",
         "auditLevel": "low",
-        "auditMode": "direct"
-      }
+        "auditMode": "all"
+      },
+      "SdkAnalysisLevel": "9.0.100"
     },
     "frameworks": {
       "net8.0": {
@@ -4814,7 +4815,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.100-rc.1.24452.12/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
