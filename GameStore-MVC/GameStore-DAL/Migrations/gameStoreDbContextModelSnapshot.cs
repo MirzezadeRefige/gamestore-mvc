@@ -35,6 +35,10 @@ namespace GameStore_DAL.Migrations
                     b.Property<int>("CostPrice")
                         .HasColumnType("int");
 
+                    b.Property<string>("Description")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(max)");
+
                     b.Property<string>("ImageUrl")
                         .IsRequired()
                         .HasColumnType("nvarchar(max)");

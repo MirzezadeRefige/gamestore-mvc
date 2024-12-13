@@ -8,5 +8,8 @@
 		public string Category { get; set; }
 		public int CostPrice { get; set; }
 		public int SellPrice { get; set; }
-	}
+        public string Description { get; set; }
+
+
+    }
 }
